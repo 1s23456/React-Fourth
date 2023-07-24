@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import LinkCompo from "./LinkCompo";
+
 
 function Student(){
-              const [data,setData]=useState(
+              const [data]=useState(
                             [
                                           {
                                              Name : "John"   ,

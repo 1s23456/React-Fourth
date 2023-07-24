@@ -1,5 +1,5 @@
 import React from "react";
-import LinkCompo from "./LinkCompo";
+
 
 const Contact = () =>{
               return(

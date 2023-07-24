@@ -3,7 +3,6 @@ import Home from "./Home";
 import Student from './Student';
 import Contact from "./Contact";
 import { Route,Routes } from "react-router-dom";
-import LinkCompo from "./LinkCompo";
 
 
 function RouteCompo(){
